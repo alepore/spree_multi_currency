@@ -15,9 +15,10 @@ Example
 To install you'll need to add the following to your Gemfile:
 
 ```ruby
-gem 'spree_multi_currency', :github => "spree/spree_multi_currency"
+gem 'spree_multi_currency', github: 'spree-contrib/spree_multi_currency', branch: 'X-X-stable'
 ```
 
+Make sure to use the right branch for your Spree version.
 
 Run:
 
